@@ -1,9 +1,8 @@
-### Hi there 👋
-
-**Therad445/Therad445** is a ✨ _repository_ ✨.
+I’m Radmir — building software that lasts: backend systems, distributed pipelines, and applied AI ✨.
 
 ![](https://komarev.com/ghpvc/?username=therad445&color=green)
 ![](https://hit.yhype.me/github/profile?user_id=59477654)
 
-Here are some ideas to get you started:
-- 🔭 I’m currently studing
+Focused on reliability, observability, and turning complex data into actionable insights.
+Curious about history, culture, and the stories behind the numbers.
+Always learning, improving, and thinking in systems
