@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=therad445&color=green)
 ![](https://hit.yhype.me/github/profile?user_id=59477654)
 
-<details open>
+<details>
 <summary><b>English</b></summary>
 
 I build reliable systems: backend services, observability stacks, and applied ML.  
@@ -22,7 +22,7 @@ Curious about history, culture, and the stories behind the numbers.
 
 </details>
 
-<details>
+<details open>
 <summary><b>Русский</b></summary>
 
 Я строю надёжные системы: бэкенд-сервисы, observability и прикладной ML.  
