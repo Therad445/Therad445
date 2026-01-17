@@ -1,4 +1,4 @@
-# Radmir — reliable systems • observability • applied ML
+# Radmir - reliable systems • observability • applied ML
 
 ![](https://komarev.com/ghpvc/?username=therad445&color=green)
 ![](https://hit.yhype.me/github/profile?user_id=59477654)
